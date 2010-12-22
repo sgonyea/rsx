@@ -1,0 +1,33 @@
+PATH
+  remote: .
+  specs:
+    rsx (0.0.1)
+      yard (~> 0.6.4)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    ZenTest (4.4.2)
+    autotest (4.4.6)
+      ZenTest (>= 4.4.1)
+    diff-lcs (1.1.2)
+    mspec (1.5.17)
+    rspec (2.3.0)
+      rspec-core (~> 2.3.0)
+      rspec-expectations (~> 2.3.0)
+      rspec-mocks (~> 2.3.0)
+    rspec-core (2.3.1)
+    rspec-expectations (2.3.0)
+      diff-lcs (~> 1.1.2)
+    rspec-mocks (2.3.0)
+    yard (0.6.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  autotest (~> 4.4.6)
+  mspec (~> 1.5.0)
+  rspec (~> 2.3.0)
+  rsx!
+  yard (~> 0.6.4)
