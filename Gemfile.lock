@@ -26,7 +26,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  autotest (~> 4.4.6)
+  autotest (~> 4.4.0)
   mspec (~> 1.5.0)
   rspec (~> 2.3.0)
   rsx!
