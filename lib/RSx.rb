@@ -3,5 +3,4 @@ $:.unshift(File.dirname(__FILE__)) unless
 
 module RSx
   autoload :Main, 'RSx/main'
-  # Your code goes here...
 end

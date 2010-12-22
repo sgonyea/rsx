@@ -1,5 +1,4 @@
-require 'rspec/core'
-require 'autotest/rspec2'
+require 'rspec'
 
 Dir[ Bundler.root.join("spec/support/**/*.rb") ].each{|f| require f}
 
